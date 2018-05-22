@@ -1,2 +1,3 @@
 # hello-world
-this is my first repository for exercise
+This is my first repository for exercise.
+I add this line to see how.
